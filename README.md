@@ -4,7 +4,7 @@
 ## 📌 Project Overview
 
 This project builds and evaluates multiple regression models to predict
-house prices (INR) using property features.\
+house prices (INR) using property features.
 The focus is on model comparison, bias--variance analysis, regression
 assumptions, and optimization using gradient descent.
 
@@ -26,29 +26,29 @@ Target Variable: `house_price_inr`
 
 ## 🧠 Models Implemented
 
--   Simple Linear Regression\
--   Multiple Linear Regression\
--   Polynomial Regression\
--   Batch Gradient Descent (SGDRegressor)\
--   Stochastic Gradient Descent\
+-   Simple Linear Regression
+-   Multiple Linear Regression
+-   Polynomial Regression
+-   Batch Gradient Descent (SGDRegressor)
+-   Stochastic Gradient Descent
 -   Mini-batch Gradient Descent
 
 ------------------------------------------------------------------------
 
 ## 📈 Model Evaluation
 
--   Train--Test Split\
--   R² Score\
--   Cross-Validation\
+-   Train--Test Split
+-   R² Score
+-   Cross-Validation
 -   Learning Curves (Bias--Variance Analysis)
 
 ------------------------------------------------------------------------
 
 ## ✅ Assumptions Validation
 
--   Linearity (Actual vs Predicted plots)\
--   Independence of errors (Residual plots)\
--   Homoscedasticity (Residuals vs Predictions)\
+-   Linearity (Actual vs Predicted plots)
+-   Independence of errors (Residual plots)
+-   Homoscedasticity (Residuals vs Predictions)
 -   Normality of residuals
 
 ------------------------------------------------------------------------
@@ -56,8 +56,8 @@ Target Variable: `house_price_inr`
 ## 🏁 Conclusion
 
 Multiple Linear Regression provided the best bias--variance
-balance,\
-while Polynomial Regression showed overfitting tendencies.\
+balance,
+while Polynomial Regression showed overfitting tendencies.
 Gradient Descent--based models performed comparably when properly tuned.
 
 ------------------------------------------------------------------------
